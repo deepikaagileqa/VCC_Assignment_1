@@ -4,8 +4,8 @@ This is my first assignment from the VCC course, in Oct 2026.
 
 ## 🚀 Features
 
-- **Feature 1:** Describe a core capability of your project.
-- **Feature 2:** Highlight another key aspect or tool utilized.
+- **Feature 1:** - **Responsive Product Showcases:** Interactive layouts featuring premium wireless headphones with dynamic design elements.
+- **Feature 2:** **Dedicated Services Grid:** A clean multi-column visual section highlighting custom tuning, warranty coverages, and support channels.
 - **Feature 3:** Mention performance, ease of use, or scalability.
 
 ## 🛠️ Tech Stack
