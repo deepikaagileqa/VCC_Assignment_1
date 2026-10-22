@@ -1,6 +1,6 @@
-# Project Title
+# VCC_Assignment_1
 
-A brief description of what this project does and who it's for.
+This is my first assignment from the VCC course, in Oct 2026.
 
 ## 🚀 Features
 
